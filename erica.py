@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 
-# Creado por Prudence Suspect
+# Creado por Kirari Senpai
 
 
 import sys
