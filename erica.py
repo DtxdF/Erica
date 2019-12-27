@@ -121,7 +121,7 @@ def crack(args):
                     _, string_to_hash))
                 return(True)
 
-        printE('No hubo resultados satisfactorios...', flush=True)
+        printE('No hubo resultados satisfactorios...')
         return(False)
 
 def main():
