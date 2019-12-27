@@ -54,3 +54,7 @@ Argumentos principales:
 ```
 
 **Ejemplo:** python3 ./erica.py -H \<hash\> -a \<Algoritmo\> -w \<Ruta del diccionario\>
+
+# Demostración
+
+[![asciicast](https://asciinema.org/a/290526.svg)](https://asciinema.org/a/290526)
